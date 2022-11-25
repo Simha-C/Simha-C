@@ -89,8 +89,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a>
 <br>
-
-
+<br>
+## Github stats
 <p align="center">
   <a href="https://github.com/simha-c">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simha-c&show_icons=true&count_private=true" />
