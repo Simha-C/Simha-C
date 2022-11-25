@@ -16,7 +16,7 @@
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning **Practical Ethical Hacking**, Malware Analysis, ReactJS 
+- 🌱 I’m currently learning **Practical Ethical Hacking**, Malware Analysis as well as ReactJS 
 
 <!-- - 👯 I’m looking to collaborate on   -->
 
