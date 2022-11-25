@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Practical Ethical Hacking**, Malware Analysis, ReactJS 
 
 <!-- - 👯 I’m looking to collaborate on   -->
-    Reach out to me via **charan.simha4work@gmail.com**
+-  Reach out to me via charan.simha4work@gmail.com
 
 - 💬 Talk to me about Penetration Testing, Cyber Security, Python, JavaScript, Linux... 
 
