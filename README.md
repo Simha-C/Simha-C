@@ -96,6 +96,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=simha-c&count_private=true&show_icons=true&theme=default" />
 </a>
+ <a href="https://github.com/fozail-ahmed1">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fozail-ahmed1" />
+ </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simha-c&theme=default" />
 </a>
