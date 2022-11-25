@@ -26,7 +26,8 @@
 - 💬 Talk to me about Penetration Testing, Cyber Security, Python, JavaScript, Linux... 
 
 -  Reach out to me via charan.simha4work@gmail.com
-  
+ <br>
+ <br>
 <div align="center">
 <h3 align="center">Connect with me :</h3>
 <p align="center">
