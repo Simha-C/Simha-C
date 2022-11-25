@@ -25,7 +25,7 @@
 
 - 💬 Talk to me about Penetration Testing, Cyber Security, Python, JavaScript, Linux... 
 
--  Reach out to me via charan.simha4work@gmail.com
+ - 📫 Reach out to me via <b> charan.simha4work@gmail.com </b>
  <br>
  <br>
 <div align="center">
@@ -89,7 +89,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a> -->
 <br>
-<h2 align="center">Github Stats: </h2>
+<h2>Github Stats: </h2>
 <p align="center">
   <a href="https://github.com/simha-c">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simha-c&show_icons=true&count_private=true" />
