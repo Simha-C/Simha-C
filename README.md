@@ -100,7 +100,8 @@
 </p>  
 <br/>
 <div align="center">
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Simha-C.Simha-C) <br>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Simha-C.Simha-C)
+ <br>
 <img src="https://komarev.com/ghpvc/?username=simha-c&&style=flat-square" align="center" />
  </div>
 
