@@ -91,17 +91,21 @@
 <br>
 
 
-<<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=simha-c&count_private=true&show_icons=true&theme=default" />
-</a>
- <a href="https://github.com/fozail-ahmed1">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fozail-ahmed1" />
- </a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simha-c&theme=default" />
-</a>
+<p align="center">
+  <a href="https://github.com/simha-c">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simha-c&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/simha-c">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simha-c" />
+  </a>
+  <a href="https://github.com/simha-c">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simha-c&hide_border=true&layout=compact" />
+  </a>
+</p>  
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=simha-c&&style=flat-square" align="center" />
+</div> 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
@@ -109,4 +113,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
