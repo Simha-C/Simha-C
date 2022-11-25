@@ -90,7 +90,7 @@
 </a>
 <br>
 <br>
-## Github stats
+ <h2>Github Stats</h2>
 <p align="center">
   <a href="https://github.com/simha-c">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simha-c&show_icons=true&count_private=true" />
