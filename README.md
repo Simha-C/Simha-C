@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on *Growing Together* - A Wearable Device using AI and IoT for Assessment of Fetal & Maternal Well-being During Pregnancy
+- 🔭 I’m currently working on **Growing Together** - A Wearable Device using AI and IoT for Assessment of Fetal & Maternal Well-being During Pregnancy, Deployed as Web App using Django
 
 - 🌱 I’m currently learning **Practical Ethical Hacking**, Practical Malware Analysis and Triage
 
