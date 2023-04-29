@@ -14,13 +14,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-<!-- - 🔭 I’m currently working on  -->
+- 🔭 I’m currently working on *Growing Together* - A Wearable Device using AI and IoT for Assessment of Fetal & Maternal Well-being During Pregnancy
 
-- 🌱 I’m currently learning **Practical Ethical Hacking**, Practical Malware Analysis and Triage as well as ReactJS 
+- 🌱 I’m currently learning **Practical Ethical Hacking**, Practical Malware Analysis and Triage
 
 <!-- - 👯 I’m looking to collaborate on   -->
 
-- 💬 Talk to me about Penetration Testing, Cyber Security, Python, JavaScript, Linux... 
+- 💬 Talk to me about Python, JavaScript, Java, Linux... 
 
  - 📫 Reach out to me via <b> charan.simha4work@gmail.com </b>
  <br>
