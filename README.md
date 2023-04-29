@@ -56,8 +56,6 @@
 <h3 align="center"> Frameworks and Libraries</h3>
 <div align="center">
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
-<a href= https://github.com/Simha-C?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='50' height='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>   
 </div>
@@ -68,9 +66,7 @@
 <h3 align="center">Tools & Platforms</h3>
 <div align="center"> 
 <a href= https://github.com/Simha-C?tab=repositories&q=&type=&language=mysql&sort= > <img width ='50' height='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> 
-<a href= https://github.com/Simha-C?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='50' height='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href= https://github.com/Simha-C?tab=repositories&q=&type=&language=docker&sort= > <img width ='50' height='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Simha-C/testing/blob/146bce197a42fc5c8de1fbf980ed3cf451fb3875/kalilinux-svgrepo-com.svg" alt="Kali Linux" height="60" /></a>
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
